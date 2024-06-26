@@ -1,5 +1,7 @@
 # DAY-11
 
+Search Binay Tree
+
 Problem Statement
 
 Given the root of a BST and an integer val.
